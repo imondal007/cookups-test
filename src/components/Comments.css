@@ -1,0 +1,19 @@
+input {
+    width: 100%;
+    border-radius: 5px;
+    border: solid 1px #eee;
+    padding: 13px;
+    box-sizing: border-box;
+}
+
+.comment-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+.comment-list li {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
